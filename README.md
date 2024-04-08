@@ -10,6 +10,19 @@ Bytte namn:
 <string name="action_internal_web">Internal Web Page</string>
 </resources>
 
+Löste internet koppling:
+
+<uses-permission android:name="android.permission.INTERNET" />
+
+Lade till webbview:
+
+<WebView
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:layout_editor_absoluteX="16dp"
+tools:layout_editor_absoluteY="56dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
 
 
 

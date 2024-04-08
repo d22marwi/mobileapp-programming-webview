@@ -2,8 +2,27 @@
 # Rapport
 
 **Skriv din rapport här!**
+Bytte namn:
+
+<resources>
+<string name="app_name">MariasApp</string>
+<string name="action_external_web">External Web Page</string>
+<string name="action_internal_web">Internal Web Page</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
 
 _Du kan ta bort all text som finns sedan tidigare_.
+
+
 
 ## Följande grundsyn gäller dugga-svar:
 
